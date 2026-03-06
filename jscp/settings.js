@@ -11,7 +11,7 @@ let settings = {
     matrixColor2: '#ff1493', // Màu pink mẫu
     sequence: 'HAPPY|SEMPRO|❤',
     sequenceColor: '#ff69b4', // Màu pink mẫu
-    gift: './image/happy3.gif',
+    gift: './image/happy4.gif',
     enableBook: true,
     pages: [
         // Cover
@@ -357,7 +357,7 @@ function initializeDefaultSettings() {
         matrixColor2: '#ff1493', // Màu pink mẫu
         sequence: 'HAPPY|SEMPRO|❤',
         sequenceColor: '#ff69b4', // Màu pink mẫu
-        gift: './image/happy3.gif',
+        gift: './image/happy4.gif',
         enableBook: true,
         enableHeart: true,
         isSave: false,  
